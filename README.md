@@ -16,12 +16,12 @@
 1. 프로그래밍 준비 작업
 1. 주피터 노트북과 파이썬 튜토리얼
 1. 텐서플로 튜토리얼
-1. 최적화 이론에 필요한 선형대수와 미분<a href="https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH04.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
-1. 딥러닝에 필요한 최적화 이론
+1. [최적화 이론에 필요한 선형대수와 미분](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH04.ipynb)
+1. [딥러닝에 필요한 최적화 이론](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH04.ipynb)
 1. 고전 수치최적화 알고리즘
-1. 딥러닝을 위한 수치최적화 알고리즘
-1. 선형 회귀 모델
-1. 선형 분류 모델
+1. [딥러닝을 위한 수치최적화 알고리즘](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH07.ipynb)
+1. [선형 회귀 모델](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH08.ipynb)
+1. [선형 분류 모델](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH09.ipynb)
 1. 신경망 회귀 모델
 1. 신경망 분류 모델
 1. 언더피팅/오버피팅 소개
