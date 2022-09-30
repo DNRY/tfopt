@@ -12,3 +12,32 @@
 </table>
 
 ## 목차
+
+1. 프로그래밍 준비 작업
+1. 주피터 노트북과 파이썬 튜토리얼
+1. 텐서플로 튜토리얼
+1. 최적화 이론에 필요한 선형대수와 미분<a href="https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH04.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+1. 딥러닝에 필요한 최적화 이론
+1. 고전 수치최적화 알고리즘
+1. 딥러닝을 위한 수치최적화 알고리즘
+1. 선형 회귀 모델
+1. 선형 분류 모델
+1. 신경망 회귀 모델
+1. 신경망 분류 모델
+1. 언더피팅/오버피팅 소개
+1. 언더피팅의 진단과 해결책
+1. 오버피팅의 진단과 해결책
+1. 텐서보드(TensorBoard) 활용
+1. 모델 저장하기와 불러오기
+1. 딥러닝 가이드 라인
+1. CNN 모델
+1. GAN(Generative Adversarial Networks) 모델
+1. Transfer Learning
+1. 딥러닝 가이드라인
+1. 자연어 데이터 전처리와 머신러닝 모델
+1. IMDB 영화 리뷰 예제: RNN 모델 학습
+1. IMDB 영화 리뷰 예제: RNN 사전학습 모델 활용
+1. IMDB 영화 리뷰 예제: BERT 사전학습 모델 활용
+1. 혼합 타입 데이터를 입력으로 받는 딥러닝 모델
+1. GPU 사용하기
+1. 텐서플로를 이용한 병렬 계산
