@@ -14,8 +14,8 @@
 ## 목차
 
 1. 프로그래밍 준비 작업
-1. 주피터 노트북과 파이썬 튜토리얼
-1. 텐서플로 튜토리얼
+1. [주피터 노트북과 파이썬 튜토리얼](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH02.ipynb)
+1. [텐서플로 튜토리얼](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH03.ipynb)
 1. [최적화 이론에 필요한 선형대수와 미분](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH04.ipynb)
 1. [딥러닝에 필요한 최적화 이론](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH05.ipynb)
 1. 고전 수치최적화 알고리즘
@@ -35,9 +35,9 @@
 1. Transfer Learning
 1. 딥러닝 가이드라인
 1. 자연어 데이터 전처리와 머신러닝 모델
-1. IMDB 영화 리뷰 예제: RNN 모델 학습
-1. IMDB 영화 리뷰 예제: RNN 사전학습 모델 활용
-1. IMDB 영화 리뷰 예제: BERT 사전학습 모델 활용
-1. 혼합 타입 데이터를 입력으로 받는 딥러닝 모델
+1. [IMDB 영화 리뷰 예제: RNN 모델 학습](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH22.ipynb)
+1. [IMDB 영화 리뷰 예제: RNN 사전학습 모델 활용](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH23.ipynb)
+1. [IMDB 영화 리뷰 예제: BERT 사전학습 모델 활용](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH24.ipynb)
+1. [혼합 타입 데이터를 입력으로 받는 딥러닝 모델](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH25.ipynb)
 1. GPU 사용하기
 1. 텐서플로를 이용한 병렬 계산
