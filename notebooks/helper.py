@@ -278,18 +278,3 @@ def generate_batches(batch_size, features, labels):
 		outout_batches.append(batch)
 
 	return outout_batches
-
-
-def visualize_l2(w, b, features, x_train, y_train):
-    plt.plot(x_train, y_train, '.k', markerfacecolor='none')
-    plt.plot(x_train, np.matmul(features, w) + b, '--k')
-    currentAxis = plt.gca()
-    for ff, xx,yy in zip(features, x_train, y_train):
-        error = np.matmul(ff, w) + b - yy
-        currentAxis.add_patch(Rectangle((xx, yy),
-                                        error, error,
-                              alpha=0.1, facecolor='gray', edgecolor='k'))
-    plt.grid()
-    plt.axis('equal')
-    plt.xlabel('x')
-    plt.ylabel('y')
