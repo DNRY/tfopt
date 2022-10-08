@@ -293,5 +293,3 @@ def visualize_l2(w, b, features, x_train, y_train):
     plt.axis('equal')
     plt.xlabel('x')
     plt.ylabel('y')
-
-visualize_l2(model.w.numpy(), model.b.numpy(), x_train, x_train, y_train)
