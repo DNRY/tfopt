@@ -22,7 +22,7 @@
 1. [딥러닝을 위한 수치최적화 알고리즘](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH07.ipynb)
 1. [선형 회귀 모델](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH08.ipynb)
 1. [선형 분류 모델](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH09.ipynb)
-1. 신경망 회귀 모델
+1. [신경망 회귀 모델](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH10.ipynb)
 1. 신경망 분류 모델
 1. 언더피팅/오버피팅 소개
 1. 언더피팅의 진단과 해결책
