@@ -33,7 +33,6 @@
 1. [CNN 모델](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH18.ipynb)
 1. [GAN(Generative Adversarial Networks) 모델](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH19.ipynb)
 1. [Transfer Learning](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH20.ipynb)
-1. 딥러닝 가이드라인
 1. 자연어 데이터 전처리와 머신러닝 모델
 1. [IMDB 영화 리뷰 예제: RNN 모델 학습](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH22.ipynb)
 1. [IMDB 영화 리뷰 예제: RNN 사전학습 모델 활용](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH23.ipynb)
