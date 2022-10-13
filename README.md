@@ -30,14 +30,14 @@
 1. 텐서보드(TensorBoard) 활용
 1. 모델 저장하기와 불러오기
 1. 딥러닝 가이드 라인
-1. [CNN 모델] (https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH18.ipynb)
-1. [GAN(Generative Adversarial Networks) 모델] (https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH19.ipynb)
-1. [Transfer Learning]  (https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH20.ipynb)
+1. [CNN 모델](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH18.ipynb)
+1. [GAN(Generative Adversarial Networks) 모델](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH19.ipynb)
+1. [Transfer Learning](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH20.ipynb)
 1. 딥러닝 가이드라인
 1. 자연어 데이터 전처리와 머신러닝 모델
 1. [IMDB 영화 리뷰 예제: RNN 모델 학습](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH22.ipynb)
 1. [IMDB 영화 리뷰 예제: RNN 사전학습 모델 활용](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH23.ipynb)
 1. [IMDB 영화 리뷰 예제: BERT 사전학습 모델 활용](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH24.ipynb)
 1. [혼합 타입 데이터를 입력으로 받는 딥러닝 모델](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH25.ipynb)
-1. [GPU 사용하기] (https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH26.ipynb)
+1. [GPU 사용하기](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH26.ipynb)
 1. 텐서플로를 이용한 병렬 계산
