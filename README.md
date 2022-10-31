@@ -30,7 +30,7 @@
     1. [Regression](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH14_Regression.ipynb)
     1. [Classification](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH14_Classification.ipynb)
 1. [텐서보드(TensorBoard) 활용](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH15.ipynb)
-1. 모델 저장하기와 불러오기
+1. [모델 저장하기와 불러오기](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH16.ipynb)
 1. 딥러닝 가이드 라인
 1. [CNN 모델](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH18.ipynb)
 1. [GAN(Generative Adversarial Networks) 모델](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH19.ipynb)
