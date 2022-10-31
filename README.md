@@ -26,7 +26,7 @@
 1. [신경망 분류 모델](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH11.ipynb)
 1. [언더피팅/오버피팅 소개](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH12.ipynb)
 1. [언더피팅의 진단과 해결책](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH13.ipynb)
-1. [오버피팅의 진단과 해결책](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH14_Classification.ipynb)
+1. 오버피팅의 진단과 해결책
     1. [Regression](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH14_Regression.ipynb)
     1. [Classification](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH14_Classification.ipynb)
 1. [텐서보드(TensorBoard) 활용](https://colab.research.google.com/github/DNRY/tfopt/blob/main/notebooks/CH15.ipynb)
